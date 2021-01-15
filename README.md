@@ -25,11 +25,11 @@
 - 项目报告.docx
 - 项目报告.pdf
 - 源码+Linux
-- main.cpp源文件
-- .h头文件
-- MakeFile
-- Linux可执行文件
-- main.o
+  - main.cpp源文件
+  - .h头文件
+  - MakeFile
+  - Linux可执行文件
+  - main.o
 
 
 
